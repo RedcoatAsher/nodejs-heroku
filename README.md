@@ -1,2 +1,4 @@
-# nodejs-heroku
-skeleton frame work for heroku (non-ssl)
+heroku-node
+===========
+
+Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
